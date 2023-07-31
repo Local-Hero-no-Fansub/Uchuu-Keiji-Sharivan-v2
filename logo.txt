@@ -1,0 +1,11 @@
+Dialogue: 0,0:00:03.00,0:00:07.00,Image,,0,0,0,,{\fad(150,0)\shad2\blur2\bord1\fnImpact\fs8\fscx550\fscy550\pos(881.634,71.143)}{\c&H3637D1&\3c&HEFC371&\4c&HFFFFFF&}Fansub
+Dialogue: 0,0:00:03.00,0:00:07.00,Image,,0,0,0,,{\fad(150,0)\shad2\blur2\bord1\fnImpact\fs6.467\fscx550\fscy550\pos(720.753,71.143)}{\c&H197A07&\3c&HEFC371&\4c&HFFFFFF&\fs8}Hyper{\c&HBE620B&\3c&HEFC371&\4c&HFFFFFF&}man
+Dialogue: 0,0:00:03.00,0:00:07.00,Image,,0,0,0,,{\fad(150,0)\p1\fscx10\fscy12\c&H00FDE9&\pos(820.822,71.143)}m 0 0 l -76 170 l -4 341 l 47 178 l 0 0 m 47 178 l 70 168 l 0 2 l 46 177 l -3 342 l 69 169 l 46 178
+
+Dialogue: 0,0:00:01.00,0:00:06.90,Título,,0,0,0,,{\fad(600,800)\c&HF4F0DA&\blur1\3c&HD2B48B&\fnArial\fs65\pos(458,130)}Uchuu Keiji
+Dialogue: 0,0:00:02.00,0:00:06.90,Título,,0,0,0,,{\fad(200,800)\c&H5F7194&\b1\fnNoto Sans CJK SC Medium\shad6\3c&H6A789D&\blur\bord9\fsp0.1\4c&H7C8A9E&\org(480.001,558.666)\shad2\fscx292\fscy322\frx16\fry0\pos(473.999,536.888)}Sha{\bord9\shad2}ri{\bord8}va{\bord8\shad2}n
+Dialogue: 0,0:00:02.20,0:00:06.90,Título,,0,0,0,,{\fad(600,800)\c&H28335A&\b1\fnNoto Sans CJK SC Medium\shad6\3c&H6A789D&\blur\bord\fsp0.1\4c&H7C8A9E&\shad2\frx16\fry0\org(471.431,564.207)\fscx299\fscy381\pos(474,537)}Sha{\bord\shad2}ri{\bord}va{\bord\shad2}n
+Dialogue: 0,0:00:02.20,0:00:06.90,Título,,0,0,0,,{\fad(600,800)\c&H010C80&\b1\fnNoto Sans CJK SC Medium\3c&H111057&\blur1.2\bord2\fsp0.1\4c&H7C8A9E&\org(480.001,558.666)\frx16\fry0\fscx292\fscy304\pos(475.427,534.745)}Sharivan
+Dialogue: 0,0:00:03.00,0:00:07.00,Image,,0,0,0,,{\fad(150,0)\shad2\blur2\bord1\fnImpact\fs8\fscx550\fscy550\pos(881.634,71.143)}{\c&H3637D1&\3c&HEFC371&\4c&HFFFFFF&}Fansub
+Dialogue: 0,0:00:03.00,0:00:07.00,Image,,0,0,0,,{\fad(150,0)\shad2\blur2\bord1\fnImpact\fs6.467\fscx550\fscy550\pos(720.753,71.143)}{\c&H197A07&\3c&HEFC371&\4c&HFFFFFF&\fs8}Hyper{\c&HBE620B&\3c&HEFC371&\4c&HFFFFFF&}man
+Dialogue: 0,0:00:03.00,0:00:07.00,Image,,0,0,0,,{\fad(150,0)\p1\fscx10\fscy12\c&H00FDE9&\pos(820.822,71.143)}m 0 0 l -76 170 l -4 341 l 47 178 l 0 0 m 47 178 l 70 168 l 0 2 l 46 177 l -3 342 l 69 169 l 46 178
